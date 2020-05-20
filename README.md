@@ -2,7 +2,7 @@
 This repository contains data on the atmospheric composition and related weather conditions in the State of California, USA.  A folder containing burned areas (shape files) and Landsat8- images of the state of California.
 The goal of this project is to assess the fire risks through understanding of the interactions between atmosphere and biosphere. The Landsat08 data will be used to identify and measure various types of vegetation and comparison with the atmospheric conditions will allow us to assess the accumulation of dry biomass and/or fuel during wildfire season in California, which normally lasts from May-October.
 
-If we are able to define qunatitative relationships between atmospheric conditions, droughts,and wildfires, we can develop fire indices along with the assest values (property and population density)to forecast vulnerable areas. This will allow us to plan ahead of time to mitigate diaster and protect precious resources. 
+If we are able to determine qunatitative relationships between atmospheric conditions, droughts,and wildfires, we can develop fire indices along with the assest values (property and population density)to forecast vulnerable areas. This will allow us to plan ahead of time to mitigate diaster and protect precious resources. 
 
 # Background
 Wildfire episodes are becoming more prevalent with global warming and climate change. Every year it causes lot of damage in terms of burnt acres, poor air quality and climate through emission of various trace greenhouse gases.
