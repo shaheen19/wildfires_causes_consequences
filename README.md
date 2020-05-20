@@ -6,6 +6,7 @@ The goal of this project is to assess the fire risks through understanding of th
 The notebooks were developed using Python 3.7.1 on a Windows system and earth-analytics-python environment. The instructions on how to install these packages are found on these links 
 (https://www.earthdatascience.org/workshops/setup-earth-analytics-python/),
 (https://github.com/earthlab/earth-analytics-python-env)
+
  Tools and Packages
 1. Numpy
 2. Pandas
