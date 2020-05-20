@@ -8,8 +8,9 @@ If we are able to determine qunatitative relationships between atmospheric condi
 Wildfire episodes are becoming more prevalent with global warming and climate change. Every year it causes lot of damage in terms of burnt acres, poor air quality and climate through emission of various trace greenhouse gases.
 The world has warmed by 1.9 degrees Fahrenheit (1.09 degrees Celsius) since 1880, with the five warmest years on record occurring in the last five years. High temperatures and low humidity are two essential factors behind the rise in fire risk and activity, affecting fire behavior from its ignition to its spread.
 
-In California, Santa Ana events which are characterized by high temperature, low relative humidity have caused many fires to spread over long distances. Over the few years the cost to control the fires have trippled ($550 millions)largely due to warmer and drier environment in California. In this project, my goal is identify the relationships between the intensity and duration of wildfires in California with atmospheric conditions. 
-
+In California, Santa Ana events which are characterized by high temperature, low relative humidity have caused many fires to spread over long distances. Over the few years the cost to control the fires have trippled ($550 millions)largely due to warmer and drier environment in California. In this project, my goal is identify the relationships between the intensity and duration of wildfires in California with atmospheric conditions.
+# Contribution to Data Science
+The work flow developed for California can be implemented for other states and countries where air quality, weather data and satellite data is available. 
 
  # Development Environment and Workflow
 The notebooks were developed using Python 3.7.1 on a Windows system and earth-analytics-python environment. The instructions on how to install these packages are found on these links 
