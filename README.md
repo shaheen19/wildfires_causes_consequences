@@ -29,11 +29,11 @@ The notebooks were developed using Python 3.7.1 on a Windows system and earth-an
 My preliminary analysis comprised of
 ### Final Notebooks
 1) workflow and analysis of atmospheric composition and weather parameters.
-2) workflow and analysis of vegetation  using normalized vegetation index and normalized burn ratio in the county of San Diego before and after wildfires. 
+2) workflow and analysis of vegetation  using normalized vegetation index and normalized burn ratio in the county of San Diego before and after wildfires. work in progress.
 ### Test-notebooks
-The folder contain various files to test strategies to clean and reduce data files to be used for the final project.
+The folder contain two sub folders for air quality and image processing. Each subfolder contains various files to test strategies to clean raw data and reduce file sizes to be used for the final project. work in progress.
 ### Scripts 
-Few functions defined to automate data analysis
+Few functions defined to automate data analysis. work in progress.
 ### Output files
 This folder contains output data files and figures 
 ### Presentations
