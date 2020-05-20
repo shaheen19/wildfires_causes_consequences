@@ -35,7 +35,7 @@ The folder contain various files to test strategies to clean and reduce data fil
 Few functions defined to automate data analysis
 ### Output files
 This folder contains output data files and figures 
-### presentations
+### Presentations
 First powerpoint presentation describing 2014 wildfire events and atmospheric conditions.
 
 The main repository contains license, gitignore and README.md files.
