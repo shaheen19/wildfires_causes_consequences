@@ -30,6 +30,7 @@ My preliminary analysis comprised of
 ### Final Notebooks
 1) workflow and analysis of atmospheric composition and weather parameters.
 2) workflow and analysis of vegetation  using normalized vegetation index and normalized burn ratio in the county of San Diego before and after wildfires. Work in progress.
+3) Multiple linear regression with CO, NO2, O3, PM2.5 to predict ozone in an urban environment.
 ### Test-notebooks
 The folder contain two sub folders for air quality and image processing. Each subfolder contains various files to test strategies to clean raw data and reduce file sizes to be used for the final project. Work in progress.
 ### Scripts 
