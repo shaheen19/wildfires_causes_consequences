@@ -26,21 +26,39 @@ The notebooks were developed using Python 3.7.1 on a Windows system and earth-an
 6. Rasterio
 7. Scikit Learn
 
-My preliminary analysis comprised of
-### Final Notebooks
-1) workflow and analysis of atmospheric composition and weather parameters.
-2) workflow and analysis of vegetation  using normalized vegetation index and normalized burn ratio in the county of San Diego before and after wildfires. Work in progress.
-3) Multiple linear regression with CO, NO2, O3, PM2.5 to predict ozone in an urban environment.
+This Gitrep is comprised of following sections.
+
+## Final Notebooks
+To run these notebooks, you would require following data files (provided via google drive). 
+1. sd_chemical_composition_2014_mean_v02.csv
+2. sd_weather_2014_mean_values_only.csv
+3. sd_combined_data_2014_mean_values_only.csv
+After completing this project, I plan on adding data to "figshare"
+
+Two new notebooks are added in this folder.
+1. SciKit-learn-MLR-stats-final
+This notebook provides information on statistical analysis conducted using Scikit-Learn.
+2. understanding_wildfires_cause_consequences
+This notebook provide information on processes responsible for ozone formation. 
+I have explored the effect of weather and chemical compostion on the ozone equilibrium,
+(net ozone= formation -destruction processes) 
+
+Previous notebook with preliminary data exploration
+3. San_Diego_2014_ wildfires_Time-series-analysis-of-the-air
+4. SanDiego_2014_wildfires_NDVI_DNBR-anaysis
+
+## Presentations
+Two powerpoint presentation describing 2014 wildfire events and atmospheric conditions. Work in progress.
+1. Time series analysis conducted earlier
+2. SD_fires_air_quality_06172020_final
+
+3. Wildfires SD_Causes and Consequences-blog
+
 ### Test-notebooks
 The folder contain two sub folders for air quality and image processing. Each subfolder contains various files to test strategies to clean raw data and reduce file sizes to be used for the final project. Work in progress.
-### Scripts 
-Few functions defined to automate data analysis. Work in progress.
+
 ### Output files
 This folder contains output data files and figures. Work in progess. 
-### Presentations
-First powerpoint presentation describing 2014 wildfire events and atmospheric conditions. Work in progress.
-
-The main repository contains license, gitignore and README.md files.
 
 PS: please note that this work is in progress and the repository will be updated frequently in the next few months. README.md file will be updated as work continue to progress.
 
