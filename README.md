@@ -53,6 +53,7 @@ Two powerpoint presentation describing 2014 wildfire events and atmospheric cond
 2. SD_fires_air_quality_06172020_final
 
 3. Wildfires SD_Causes and Consequences-blog
+4. sd_2014wildfires_blog (code cells hidden)
 
 ### Test-notebooks
 The folder contain two sub folders for air quality and image processing. Each subfolder contains various files to test strategies to clean raw data and reduce file sizes to be used for the final project. Work in progress.
